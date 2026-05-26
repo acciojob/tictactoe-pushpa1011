@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body {
-  font-family: Arial, sans-serif;
+  font-family: Pacifico, cursive;
   text-align: center;
   background: #f4f4f4;
 }
@@ -34,8 +34,8 @@ button {
 .cell {
   width: 100px;
   height: 100px;
-  background: white;
-  font-size: 32px;
+  background: pink;
+  font-size: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
